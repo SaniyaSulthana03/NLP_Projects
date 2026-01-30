@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-# import nltk
+import nltk
 import re
 from collections import defaultdict, Counter
 from nltk.util import ngrams
